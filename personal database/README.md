@@ -1,4 +1,4 @@
-# Personal Knowledge Base Assistant 🤖📚
+# Personal Knowledge Base Assistant （我的個人資料庫）
 
 A personal knowledge base you talk to through Telegram. Send a note to save it; ask a
 question and the bot retrieves your relevant notes and answers from them — a complete
